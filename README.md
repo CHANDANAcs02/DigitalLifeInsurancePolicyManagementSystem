@@ -1,6 +1,6 @@
 # Digital Life Insurance Policy Management System
 
-A Spring Boot enterprise-style backend implementing the Digital Life Insurance Policy Management System BRD. This version uses **PostgreSQL** instead of MySQL and intentionally does **not** implement Google SSO; authentication is implemented with **Spring Security + BCrypt + JWT + role-based authorization**.
+A Spring Boot enterprise-style backend implementing the Digital Life Insurance Policy Management System BRD. O; authentication is implemented with **Spring Security + BCrypt + JWT + role-based authorization**.
 
 ## Included BRD requirements
 
